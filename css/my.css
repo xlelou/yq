@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html,body{
+    height: 100%;
+}
+
+.page-body{
+    height: 100%;
+    width: 100%;
+}
+
+.page-left{
+    border-right: 1px solid #f1f1f1;
+    max-width: 200px;
+}
+
+
+.lh38{
+    line-height: 38px;
+}
+
+.form-group{
+    margin-bottom: 5px;
+}
+
+.charts{
+    width: 80%;
+    height: 60%;
+    margin: 10% auto;
+}
