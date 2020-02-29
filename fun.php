@@ -9,7 +9,7 @@
     }
     
     
-    $mysqli = new mysqli('116.85.11.159', 'root', 'xlelou', 'yiqingdb');
+    $mysqli = new mysqli('', 'root', '', 'yiqingdb');
     
     if ($mysqli->connect_error) {
         die('Connect Error (' . $mysqli->connect_errno . ') '
